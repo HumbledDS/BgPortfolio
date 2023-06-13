@@ -285,7 +285,6 @@ input, select, textarea {
 .centered-pdf {
 	display: flex;
 	justify-content: center;
-	padding: 0 30%;
 }
 .pdf-container {
 	width: 120%;
